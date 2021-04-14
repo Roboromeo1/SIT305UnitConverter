@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="tempButtonDetails">Select Temperature Converter</string>
+    <string name="lengthButtonDetails">Select Length Converter</string>
+    <string name="weightButtonDetails">Select Weight Converter</string>
+    <string name="input">Enter Number</string>
+    <string name="dialog_title">Alert!</string>
+    <string name="dialog_user_prompt">Please select the correct conversion icon!</string>
+    <string name="ok">OK</string>
+    <string-array name="selectUnit">
+        <item>Meter</item>
+        <item>°C</item>
+        <item>Kg</item>
+    </string-array>
+</resources>
